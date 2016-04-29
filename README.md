@@ -45,6 +45,8 @@
 ![github](https://www.baidu.com/img/bd_logo1.png "github")
 
 ### 显示图片也可以用原生的html标签
+\<img src="https://www.baidu.com/img/bd_logo1.png" /\>
+
 <img src="https://www.baidu.com/img/bd_logo1.png" />
 
 ### 文字被些字符包围

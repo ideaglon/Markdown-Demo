@@ -66,6 +66,16 @@
 >
 > > > > 但> 只能放在行首才有效
 
+### 表格
+| 类库 | 全局名称 |
+| ---- | ------ |
+| React | React |
+| Reflux | Reflux |
+| React Router | ReactRouter |
+| FastClick | FastClick |
+| Zepto | $ |
+| natty-db | NattyDB |
+
 ### 特殊字符处理
 有一些特殊字符如<,#等,只要在特殊字符前面加上转义字符\即可<br />
 你想换行的话其实可以直接用html标签\<br /\>
